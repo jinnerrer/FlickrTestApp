@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tool_bar_elevation">6dp</dimen>
+    <dimen name="end_margin_10">10dp</dimen>
+    <dimen name="padding_6">6dp</dimen>
+    <dimen name="card_corner_radius">4dp</dimen>
+    <dimen name="padding_4">4dp</dimen>
+    <dimen name="more_btn_size">50dp</dimen>
+    <dimen name="progress_bar_100">100dp</dimen>
+    <dimen name="padding_16">16dp</dimen>
+    <dimen name="text_size_14">14sp</dimen>
+    <dimen name="image_item_height">200dp</dimen>
+    <dimen name="margin_2">2dp</dimen>
+    <dimen name="size_40">40dp</dimen>
+    <dimen name="size52">52dp</dimen>
+    <dimen name="margin10">10dp</dimen>
+</resources>

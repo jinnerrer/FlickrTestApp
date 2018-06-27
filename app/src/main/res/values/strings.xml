@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FlickrTestApp</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="resolution_error">Нет изображения данного разрешения</string>
+    <string name="image_error">Ошибка изображения</string>
+    <string name="query_hint">Введите запрос ...</string>
+    <string name="app_title"> </string>
+    <string name="no_results_error">Ошибка загрузки ...</string>
+    <string name="loading_message">Загрузка изображений ...</string>
+    <string name="back_to_exit">Для выхода нажмите Назад еще раз</string>
+</resources>

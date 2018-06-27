@@ -8,7 +8,7 @@
 Технические требования:
 - Kotlin
 - RxJava 2
-- Dependency Injection, к примеру Kodein
+- Dependency Injection, к примеру Kodein (но при выполнении был использован Dagger2)
 - View Binding в любом для вас приемлемом виде, к примеру Butterknife
 - Приложение должно адекватно использовать слои, к примеру MVP или MVVM
 

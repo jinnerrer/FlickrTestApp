@@ -27,7 +27,6 @@ constructor(private val mService: RetrofitService) {
     }
 
     companion object {
-
         private val API_KEY = "64290a8220ce91bdd978e743a30a3170"
     }
 
